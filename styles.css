@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+}
+
+button {
+  margin-left: 50%;
+  margin-top: 20%;
+  transform: translate(-50%, -50%);
+}
